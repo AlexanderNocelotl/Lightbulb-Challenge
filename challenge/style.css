@@ -1,0 +1,42 @@
+h1{
+    color:blue;
+  }
+  h2{
+  color:green;
+  text-align:center;
+  }
+  h1{
+  text-align:center;
+  font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+  }
+  .center{
+  position:relative;
+  margin:auto;
+  display:block;
+  width: 200px;
+  height:200px;
+  border: 2px solid #F95150;
+  }
+  .turnoff{
+  
+  border-radius: 20px;
+  width: 100px;
+  height:50px;
+  color: white;
+  background-color:teal;
+  cursor:pointer;
+  display:block;
+  margin:auto;
+  }
+  .turnon{
+  border-radius: 20px;
+  width: 100px;
+  height:50px;
+  cursor: pointer;
+  background-color: coral;
+  color:white;
+  display:block;
+  margin:auto;
+  }
